@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Marco
-- 🌱 I’m currently learning Cloud Computing
+- 🌱 I’m currently attending the master's degree in Cloud Computing
 - 📫 How to reach me: marcodellecave1998@gmail.com
 
 <!---
